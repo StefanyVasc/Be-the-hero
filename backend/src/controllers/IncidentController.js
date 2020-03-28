@@ -55,6 +55,8 @@ module.exports = {
       .where("id", id)
       .delete();
 
-    return response.status(204).send({msg: "Incident was successful deleted"});
+    return response
+      .status(204)
+      .send({ msg: "Incident was successful deleted" });
   }
 };
