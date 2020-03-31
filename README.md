@@ -5,12 +5,29 @@
 <h2 align="center">
   🚀 Semana Omnistack 11.0
 </h2>
+
+
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vsalbuq/be-the-hero">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vsalbuq/be-the-hero">
+  
+  <a href="https://github.com/vsalbuq/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vsalbuq/be-the-hero">
+  </a>
+
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+<p align="center">
+    <a href="https://insomnia.rest/run/?label=api-be-the-hero&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FBe-the-hero%2Fblob%2Fmaster%2Ffiles%2FInsomnia_2020-03-27.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
+
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -75,7 +92,9 @@ O projeto conta com um aplicativo onde o usuário pode se tornar o héroi dos ca
 
 ## :file_folder: File Insomnia
 
-O arquivo `.json` com o arquivo usado no Insomnia está dentro da pasta **files**. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. 
+O arquivo `.json` com o arquivo usado no Insomnia está dentro da pasta **files**. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. Ou clique no botão para ser redirecionado
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=api-be-the-hero&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FBe-the-hero%2Fblob%2Fmaster%2Ffiles%2FInsomnia_2020-03-27.json)
 
 ## :computer: Instalação
 
