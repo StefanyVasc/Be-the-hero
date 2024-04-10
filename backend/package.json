@@ -18,7 +18,7 @@
     "knex": "^2.4.0",
     "package-json-to-readme": "^2.1.1",
     "readme-md-generator": "^1.0.0",
-    "sqlite3": "^4.1.1"
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "jest": "^29.6.1",
